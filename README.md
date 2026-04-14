@@ -4,6 +4,7 @@ A Hassle-Free way to do this is by installing the Chrome Extension by enabling d
 
 The method to fully automate it requires the following:
 
+0. Do all the above and test the extension to ensure its working.
 1. For simplicity, Place the files on C:, with the foldername ZSpotifyGUIFull, you don't have to but you'll need to change the file paths in the Hosts folder where applicable
 2. In com.dimi.zotify_runner.json : ensure path of "C:\ZSpotifyGUIFull\Hosts\run_zotify_host.cmd" is correct or change if needed & get the Chrome extension ID from chrome://extensions/ for Zotify Web GUI and paste it at "chrome-extension://HERE/", replacing HERE
 3. In install_native_host.reg, ensure C:\ZSpotifyGUIFull\Hosts\com.dimi.zotify_runner.json is pointing to the correct directory
