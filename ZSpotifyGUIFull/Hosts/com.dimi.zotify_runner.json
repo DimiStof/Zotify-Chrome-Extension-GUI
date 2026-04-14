@@ -1,0 +1,9 @@
+{
+  "name": "com.dimi.zotify_runner",
+  "description": "Runs zotify commands for the Spotify helper extension",
+  "path": "C:\\ZSpotifyGUIFull\\Hosts\\run_zotify_host.cmd",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://HERE/"
+  ]
+}
