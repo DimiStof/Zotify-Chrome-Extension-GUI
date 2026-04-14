@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Zotify Web Downloader",
+  "name": "Zotify Web GUI",
   "version": "1.2.0",
   "description": "GUI for Zotify through Spotify's Web App. Use -m pip install git+https://github.com/DraftKinner/zotify.git",
   "permissions": [
